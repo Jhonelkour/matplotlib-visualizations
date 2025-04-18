@@ -10,8 +10,8 @@ This repository contains my first hands-on practice using the Python library **m
 
 ## 📁 Files
 
-- `plot.py` or `.ipynb` — Salary comparison line chart
-- `bar.py` or `.ipynb` — Salary comparison bar chart
+- `plot.ipynb` — Salary comparison line chart
+- `bar.ipynb`  — Salary comparison bar chart
 - `README.md` — Project description
 
 ## 🚀 About Me
