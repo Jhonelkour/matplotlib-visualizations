@@ -10,10 +10,17 @@ This repository contains my first hands-on practice using the Python library **m
 
 ## 📁 Files
 
-- `plot.ipynb` — Salary comparison line chart
-- `bar.ipynb`  — Salary comparison bar chart
-- `README.md` — Project description
+plot.ipynb — 📈 Line chart comparing salaries of general developers and Python developers
 
+bar.ipynb — 📊 Bar chart showing salary differences by age group
+
+pie_chart.ipynb — 🥧 Pie chart visualization (to be added with relevant data)
+
+histograms.ipynb — 📊 Histograms for data distribution (to be added with actual content)
+
+subplots.ipynb — 🖼️ Side-by-side subplot comparison of general vs Python developer salaries
+
+README.md — 📘 Project description and notebook summaries
 ## 🚀 About Me
 
 I'm currently learning data analytics and this is part of my journey in mastering data visualization with Python.
